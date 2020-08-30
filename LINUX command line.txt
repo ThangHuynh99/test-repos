@@ -1,0 +1,23 @@
+Folder includes:
+
+Client
+DNS1
+DNS2
+WEB1
+WEB2
+
+
+
+Dùng cho Ubuntu
+- apt-get install <gói cài đặt> // apt install
+- apt-get update
+
+Dùng cho CentOS
+- yum install <gói cài đặt>
+- yum update
+
+Dùng cho cả 2 bản phân phối trên
+- pwd, ls, cd, mkdir, cp, mv, rm, tree, cat, less, more, touch, clear,
+
+Trình soạn thảo
+- vi, vim, nano
